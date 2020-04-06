@@ -1,7 +1,49 @@
-#main-navbar{
-	
- }
- 
 #onpage{
 	text-decoration: underline overline;
+}
+
+#main-navbar{
+	background-attachment: blue;
+	overflow: hidden;
+	width: 100%;
+	position: relative;
+ }
+
+#navbar-container{
+	float: left;
+	left: 50%;
+	position: relative;
+	display:block;
+}
+
+#navbar-container ul{
+	
+}
+
+#navbar-container ul li{
+	
+}
+
+#navbar-container ul li a{
+	
+}
+
+#sidebar{
+	
+}
+
+#sidebar-container{
+	
+}
+
+#sidebar-container ul{
+	
+}
+
+#sidebar-container ul li{
+	
+}
+
+#sidebar-container ul li a{
+	
 }
