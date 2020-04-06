@@ -1,9 +1,6 @@
-#onpage{
-	text-decoration: underline overline;
-}
-
+/* navigation */
 #main-navbar{
-	background-attachment: blue;
+	background-color: blue;
 	overflow: hidden;
 	width: 100%;
 	position: relative;
@@ -17,17 +14,30 @@
 }
 
 #navbar-container ul{
-	
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	position: relative;
+	right: 50%;
+	float: left;
 }
 
 #navbar-container ul li{
-	
+	float: left;
+	padding: 10px 20px;
 }
 
 #navbar-container ul li a{
-	
+	color: #fff;
+	text-decoration: none;
+}
+#onpage{
+	background-color: #000;
+	text-decoration: underline overline;
 }
 
+/* sidebar */
 #sidebar{
 	
 }
